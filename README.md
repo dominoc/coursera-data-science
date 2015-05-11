@@ -1,2 +1,3 @@
 # coursera-data-science
-My first repository
+My first repository. 
+Hello git. 
